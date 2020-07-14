@@ -4,7 +4,7 @@
   , "private": true
   , "dependencies": {
       "azure": ">=0.5.3"
-    , "express": "2.5.8"
+    , "express": "4.17.1"
     , "jade": ">= 0.0.1"
   }
 }
